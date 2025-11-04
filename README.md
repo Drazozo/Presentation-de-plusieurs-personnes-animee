@@ -7,4 +7,4 @@ Je l’avais initialement **repéré sur CodePen** et je voulais le **conserver 
 Quelques jours plus tard, l’auteur l’avait **supprimé de la plateforme**, mais heureusement, j’avais **gardé une copie**.  
 Et encore aujourd’hui, je trouve que le résultat est **assez moderne et agréable à utiliser**.
 
-👉 [Voir le projet en ligne](https://drazozo.github.io/presentation-des-auteurs-du-site-web-anime/)
+👉 [Voir le projet en ligne](https://drazozo.github.io/Presentation-de-plusieurs-personnes-animee/)
